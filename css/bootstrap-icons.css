@@ -380,9 +380,9 @@
 .bi-bag-x::before {
   content: "\f178";
 }
-.bi-bag::before {
+/* .bi-bag::before {
   content: "\f179";
-}
+} */
 .bi-bar-chart-fill::before {
   content: "\f17a";
 }
