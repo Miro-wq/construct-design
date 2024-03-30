@@ -1200,4 +1200,19 @@ button:focus:not(:focus-visible) {
   .full-image-img {
     bottom: 0;
   }
+  .top-contact {
+    display: none;
+  }
+}
+.top-contact a {
+  width: 180px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: flex-end;
+  color: var(--dark-color);
+  align-content: center;
+}
+.top-contact a:hover {
+  color: var(--yellow-color);
 }
